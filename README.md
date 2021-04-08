@@ -48,3 +48,6 @@ A repo to list and explain software tools and framework for different purposes.
 
 - [Weight & Biases](https://wandb.ai/site)
    - Experiment tracking, model and dataset versioning, hyperparameter optimization
+
+- [Prodigy](https://prodi.gy/)
+   - Annote data using ML
