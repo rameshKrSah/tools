@@ -3,7 +3,8 @@
 
 * **[Managing Machine Learning Projects](#managing-machine-learning-projects)**
 
-* **[Data Generation and Annotation](#data-generation-and-annotation)**  
+* **[Data Generation and Annotation](#data-generation-and-annotation)**
+* **[Plotting Neural Networks](#plotting-neural-networks)**
 
 ### Managing Machine Learning Projects
 - [Keepsake](https://github.com/replicate/keepsake) 
@@ -60,3 +61,47 @@
 - [Layout Parser](https://github.com/Layout-Parser/layout-parser)
    - A unified toolkit for deep learning based document image analysis library
    - Accurate layout detection in images
+
+
+### Plotting Neural Networks
+   - [Visualize Multi-layer Perceptron](https://github.com/jzliu-100/visualize-neural-network) [Blog Post](http://www.jzliu.net/blog/simple-python-library-visualize-neural-network/)
+   - [NN-SVG](https://alexlenail.me/NN-SVG/LeNet.html) Visualize any most neural networks on the web.
+   - [Netron](https://github.com/lutzroeder/netron) Viewer for neural network, deep learning, and machine learning models.
+   - [Efemarai](https://efemarai.com/) Test and debug machine learning models and data; has a free personal tier.
+   - [Net2Vis](https://github.com/viscom-ulm/Net2Vis) Block visualization of neural networks. Supports actual visuals from code. 
+   - [visualKeras](https://github.com/paulgavrikov/visualkeras/) Visualize Keras neural network architectures. Allows easy styling.
+   - [drawConvnet](https://github.com/gwding/draw_convnet) Illustrate CNNs
+   - [PlotNeuralNet](https://github.com/HarisIqbal88/PlotNeuralNet) Latex code for drawing neural networks.
+   - [TensorBoard](https://www.tensorflow.org/tensorboard/graphs) Visualize the graph of tensorflow models.
+   - [Keras.js](https://transcranial.github.io/keras-js/#/inception-v3) Draw Keras models as block diagram - no longer active
+   - [Keras Model to ASCII](https://github.com/stared/keras-sequential-ascii/) Visualize Keras models as ASCII or text tables.
+   - [TensorSpace.js](https://tensorspace.org/html/docs/startIntro.html) 3D visualization for neural networks.
+   - [Netscope](https://dgschwend.github.io/netscope/#/preset/squeezenet) Block diagram for neural networks.
+   - 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
