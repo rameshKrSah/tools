@@ -1,8 +1,11 @@
 # Tools
+## Table of Contents
 
-A repo to list and explain software tools and framework for different purposes.
+* **[Managing Machine Learning Projects](#managing-machine-learning-projects)**
 
-## Managing machine learning projects
+* **[Data Generation and Annotation](#data-generation-and-annotation)**  
+
+### Managing Machine Learning Projects
 - [Keepsake](https://github.com/replicate/keepsake) 
    - Automatically track code, hyperparameters, training data (in a sense), weights, metrics, Python dependencies.
    - Go back the code and weights from any checkpoint if need to replicate your results or commit to Git after the fact.
@@ -51,3 +54,9 @@ A repo to list and explain software tools and framework for different purposes.
 
 - [Prodigy](https://prodi.gy/)
    - Annote data using ML
+
+
+### Data Generation and Annotation
+- [Layout Parser](https://github.com/Layout-Parser/layout-parser)
+   - A unified toolkit for deep learning based document image analysis library
+   - Accurate layout detection in images
