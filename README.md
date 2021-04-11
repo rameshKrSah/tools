@@ -4,7 +4,10 @@
 * **[Managing Machine Learning Projects](#managing-machine-learning-projects)**
 
 * **[Data Generation and Annotation](#data-generation-and-annotation)**
+
 * **[Plotting Neural Networks](#plotting-neural-networks)**
+
+* **[ML Models on Web](#ml-models-on-web)**
 
 ### Managing Machine Learning Projects
 - [Keepsake](https://github.com/replicate/keepsake) 
@@ -77,7 +80,9 @@
    - [Keras Model to ASCII](https://github.com/stared/keras-sequential-ascii/) Visualize Keras models as ASCII or text tables.
    - [TensorSpace.js](https://tensorspace.org/html/docs/startIntro.html) 3D visualization for neural networks.
    - [Netscope](https://dgschwend.github.io/netscope/#/preset/squeezenet) Block diagram for neural networks.
-   - 
+  
+### ML Models on Web
+   - [Gradio](https://gradio.app/hub) - A collection of ML models with web interface.
 
 
 
