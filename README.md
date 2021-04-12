@@ -9,6 +9,8 @@
 
 * **[ML Models on Web](#ml-models-on-web)**
 
+* **[Exploratory Data Anlysis](#exploratory-data-analysis)**
+
 ### Managing Machine Learning Projects
 - [Keepsake](https://github.com/replicate/keepsake) 
    - Automatically track code, hyperparameters, training data (in a sense), weights, metrics, Python dependencies.
@@ -85,7 +87,8 @@
    - [Gradio](https://gradio.app/hub) - A collection of ML models with web interface.
 
 
-
+### Exploratory Data Analysis
+   - [dataprep.eda](https://towardsdatascience.com/dataprep-eda-accelerate-your-eda-eb845a4088bc) [Github](https://github.com/sfu-db/dataprep) - An excellect tool for EDA
 
 
 
