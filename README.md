@@ -89,6 +89,7 @@
 
 ### Exploratory Data Analysis
    - [dataprep.eda](https://towardsdatascience.com/dataprep-eda-accelerate-your-eda-eb845a4088bc) [Github](https://github.com/sfu-db/dataprep) - An excellect tool for EDA
+   - [pandas-profiling](https://github.com/pandas-profiling/pandas-profiling) - An extension to the popular Pandas library for quick EDA. 
 
 
 
