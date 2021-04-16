@@ -11,6 +11,8 @@
 
 * **[Exploratory Data Anlysis](#exploratory-data-analysis)**
 
+* **[Data Science Lifecycle](#data-science-lifecycle)**
+
 ### Managing Machine Learning Projects
 - [Keepsake](https://github.com/replicate/keepsake) 
    - Automatically track code, hyperparameters, training data (in a sense), weights, metrics, Python dependencies.
@@ -92,7 +94,9 @@
    - [pandas-profiling](https://github.com/pandas-profiling/pandas-profiling) - An extension to the popular Pandas library for quick EDA. 
 
 
-
+### Data Science Lifecycle
+  - [Data Science Lifecycle Process](https://github.com/dslp/dslp) - The Data Science Lifecycle Process is a set of prescriptive steps and best practices to enable data science teams to consistently deliver value.
+  - [Cookiecutter Data Science](https://drivendata.github.io/cookiecutter-data-science/#cookiecutter-data-science) - A logical, resonably standardized, but flexible project structure for doing and sharing data science work.
 
 
 
