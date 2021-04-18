@@ -13,6 +13,8 @@
 
 * **[Data Science Lifecycle](#data-science-lifecycle)**
 
+* **[ML Library Wrappers](#ml-library-wrappers)**
+
 ### Managing Machine Learning Projects
 - [Keepsake](https://github.com/replicate/keepsake) 
    - Automatically track code, hyperparameters, training data (in a sense), weights, metrics, Python dependencies.
@@ -98,6 +100,8 @@
   - [Data Science Lifecycle Process](https://github.com/dslp/dslp) - The Data Science Lifecycle Process is a set of prescriptive steps and best practices to enable data science teams to consistently deliver value.
   - [Cookiecutter Data Science](https://drivendata.github.io/cookiecutter-data-science/#cookiecutter-data-science) - A logical, resonably standardized, but flexible project structure for doing and sharing data science work.
 
+### ML Library Wrappers
+   - [EasyTorch](https://github.com/sraashis/easytorch)
 
 
 
