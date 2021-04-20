@@ -15,6 +15,8 @@
 
 * **[ML Library Wrappers](#ml-library-wrappers)**
 
+* **[Hyperparameter Optimization](#hyperparameter-optimization)**
+
 ### Managing Machine Learning Projects
 - [Keepsake](https://github.com/replicate/keepsake) 
    - Automatically track code, hyperparameters, training data (in a sense), weights, metrics, Python dependencies.
@@ -105,8 +107,8 @@
    - [EasyTorch](https://github.com/sraashis/easytorch)
 
 
-
-
+### Hyperparameter Optimization
+   - [Optuna](https://optuna.org/) - An open source hyperparameter optimization framework to automate hyperparameter search
 
 
 
