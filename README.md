@@ -89,6 +89,7 @@
   
 ### ML Models on Web
    - [Gradio](https://gradio.app/hub) - A collection of ML models with web interface.
+   - [Backprop](https://github.com/backprop-ai/backprop) - Use, finetune, and deploy state-of-the-art ML models.
 
 
 ### Exploratory Data Analysis
