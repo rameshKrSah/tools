@@ -19,6 +19,10 @@
 
 * **[Data Visualization](#data-visualization)**
 
+* **[Jupyter Notebook](#jupyter-notebook)**
+
+* **[Time Series ML](#time-series-ml)**
+
 ### Managing Machine Learning Projects
 - [Keepsake](https://github.com/replicate/keepsake) 
    - Automatically track code, hyperparameters, training data (in a sense), weights, metrics, Python dependencies.
@@ -27,29 +31,29 @@
 
 - [DVC](https://github.com/iterative/dvc)
    - Management and versioning of datasets and machine learning models. 
-   - Makes project reproducible and shareable
-   - Manage experiments with Git tags/branches and metrics tracking
+   - Makes project reproducible and shareable.
+   - Manage experiments with Git tags/branches and metrics tracking.
 
 - [MLFlow](https://github.com/mlflow/mlflow)
    - Platform for machine learning development with experiment tracking, packing code into reproducible runs, and sharing and deploying models.
 
 - [ClearML](https://clear.ml/)
-   - Experiment management tool to track parameters, jobs, artifacts, metrics, debug data, metadata, and log everything (MLFlow)
-   - Manage resources and scaling on cloud (Kubeflow)
-   - Data analysis versioning and lineage for full reproducibility (DVC)
+   - Experiment management tool to track parameters, jobs, artifacts, metrics, debug data, metadata, and log everything (MLFlow).
+   - Manage resources and scaling on cloud (Kubeflow).
+   - Data analysis versioning and lineage for full reproducibility (DVC).
 
 - [Optuna](https://optuna.readthedocs.io/en/stable/index.html)
-   - Automatic hyperparameter optimization framework
-   - Imperative, define-by-run style
+   - Automatic hyperparameter optimization framework.
+   - Imperative, define-by-run style.
 
 - [HyperOpt](https://hyperopt.github.io/hyperopt/)
-   - Distributed Asynchronous Hyperparameter Optimization
+   - Distributed Asynchronous Hyperparameter Optimization.
 
 - [Sacred](https://github.com/IDSIA/sacred)
    - A tool to configure, organize, log, and reproduce experiments.
 
 - [PyPaDS](https://pypads.readthedocs.io/en/latest/)
-   - Automate logging by tracking the libraries
+   - Automate logging by tracking the libraries.
  
 - [Comet ML](https://www.comet.ml/site/)
    - Track, compare, explain, and optimize experiments and models
@@ -58,22 +62,22 @@
    - Log, store, display, organize, compare, and query all MLOps metadata.
 
 - [Aim](https://github.com/aimhubio/aim)
-   - Super-easy way to record, search and compare 1000s of ML training runs
+   - Super-easy way to record, search and compare 1000s of ML training runs.
 
 - [Guild ai](https://guild.ai/)
-   - Track experiments, automate pipelines, tune hyperparameters
+   - Track experiments, automate pipelines, tune hyperparameters.
 
 - [Weight & Biases](https://wandb.ai/site)
-   - Experiment tracking, model and dataset versioning, hyperparameter optimization
+   - Experiment tracking, model and dataset versioning, hyperparameter optimization.
 
 - [Prodigy](https://prodi.gy/)
-   - Annote data using ML
+   - Annote data using ML.
 
 
 ### Data Generation and Annotation
 - [Layout Parser](https://github.com/Layout-Parser/layout-parser)
-   - A unified toolkit for deep learning based document image analysis library
-   - Accurate layout detection in images
+   - A unified toolkit for deep learning based document image analysis library.
+   - Accurate layout detection in images.
 
 
 ### Plotting Neural Networks
@@ -83,10 +87,10 @@
    - [Efemarai](https://efemarai.com/) Test and debug machine learning models and data; has a free personal tier.
    - [Net2Vis](https://github.com/viscom-ulm/Net2Vis) Block visualization of neural networks. Supports actual visuals from code. 
    - [visualKeras](https://github.com/paulgavrikov/visualkeras/) Visualize Keras neural network architectures. Allows easy styling.
-   - [drawConvnet](https://github.com/gwding/draw_convnet) Illustrate CNNs
+   - [drawConvnet](https://github.com/gwding/draw_convnet) Illustrate CNNs.
    - [PlotNeuralNet](https://github.com/HarisIqbal88/PlotNeuralNet) Latex code for drawing neural networks.
    - [TensorBoard](https://www.tensorflow.org/tensorboard/graphs) Visualize the graph of tensorflow models.
-   - [Keras.js](https://transcranial.github.io/keras-js/#/inception-v3) Draw Keras models as block diagram - no longer active
+   - [Keras.js](https://transcranial.github.io/keras-js/#/inception-v3) Draw Keras models as block diagram - no longer active.
    - [Keras Model to ASCII](https://github.com/stared/keras-sequential-ascii/) Visualize Keras models as ASCII or text tables.
    - [TensorSpace.js](https://tensorspace.org/html/docs/startIntro.html) 3D visualization for neural networks.
    - [Netscope](https://dgschwend.github.io/netscope/#/preset/squeezenet) Block diagram for neural networks.
@@ -111,15 +115,22 @@
 
 
 ### Hyperparameter Optimization
-   - [Optuna](https://optuna.org/) - An open source hyperparameter optimization framework to automate hyperparameter search
+   - [Optuna](https://optuna.org/) - An open source hyperparameter optimization framework to automate hyperparameter search.
 
 
 ### Data Visualization
    - [Lyra](https://github.com/vega/lyra) - Interactive environment that enables custom visualization design.
 
+### Jupyter Notebook
+   - [nbviewer](https://nbviewer.jupyter.org/) - Have any Jupyter notebook hosted on web rendered. 
+   - [Binder](https://mybinder.org/) - Open Github notebooks in an excutable environment.
 
 
-
+### Time Series ML
+   - [tslearn](https://github.com/tslearn-team/tslearn) - Machine learning toolkit for time series analysis in Python.
+   - [sktime](https://github.com/alan-turing-institute/sktime) - A unified framework for machine learning with time series.
+   - [sktime-dl](https://github.com/sktime/sktime-dl) - Deep learning extension to sktime.
+   - [prophet](https://github.com/facebook/prophet) - Time series forecasting based on an additive model where non-linear trends. Works best with time series with seasonal effects. 
 
 
 
